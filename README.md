@@ -1,6 +1,6 @@
 # Drupal ISS Live Tracker Custom Module
 
-A Drupal 11 custom module that provides an `iss_tracker` paragraph type, enabling editors to place a live International Space Station tracker on any page via the CMS. The frontend Next.js component that renders the live map, crew list, and Wikipedia bios lives at: https://github.com/franciscojavierguardado101/franciscojavierguardado101-book-1-frontend
+A Drupal 11 custom module that provides an `iss_tracker` paragraph type, enabling editors to place a live International Space Station tracker on any page via the CMS. The Next.js frontend that renders the live map, crew list, and Wikipedia bios lives at: https://github.com/franciscojavierguardado101/Frontend-Typescript-ISS-Tracker
 
 ## What it does
 
